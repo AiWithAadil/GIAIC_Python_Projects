@@ -1,0 +1,23 @@
+[
+    {
+        "title": "how to earn",
+        "author": "james",
+        "year": 2002,
+        "genre": "lifestyle",
+        "read_or_not": "yes"
+    },
+    {
+        "title": "how to deal with peoples",
+        "author": "allah ma iqbal",
+        "year": 1987,
+        "genre": "politics",
+        "read_or_not": "yes"
+    },
+    {
+        "title": "fast way to learn",
+        "author": "elon musk",
+        "year": 2005,
+        "genre": "lifestyle",
+        "read_or_not": "no"
+    }
+]
